@@ -6,36 +6,36 @@ I have **15+ years of experience** building and integrating business systems acr
 
 I specialize in connecting complex systems and turning disconnected tools into **automated, scalable business workflows**, including custom CRMs, reporting dashboards, payment infrastructure, AI agents, and data automation platforms.
 
-* 🚀 **Founder of [ADB WORLD](https://adbworld.com/)** — delivering fintech, API integration, automation, CRM, AI, dashboards, and custom software solutions.
-* 💳 **Payment & Fintech:** NMI · North · Stripe · ACH · Card Processing · Tokenization · Customer Vaults · Recurring Billing · Webhooks · Transaction Reporting
-* 🔗 **1,000+ integrations** across payment processors, CRMs, SaaS platforms, APIs, automation systems, and business applications.
-* 🏥 **Industry experience:** Health Insurance · Healthcare · Lending & Loans · Fintech · CRM · E-Commerce · Enterprise Automation
-* 🤖 **AI & Automation:** AI Agents · LLM Integrations · AI Workflows · n8n · Make · Zapier · Data Automation · Intelligent CRM Automation
-* 📊 **CRM & Business Platforms:** HubSpot · GoHighLevel (GHL) · Zoho · Salesforce and many other CRM/business platforms
-* 🧠 **Custom Business CRMs:** Lead Management · Sales Pipelines · Customer Management · Workflow Automation · User/Role Management · Reporting
-* 📈 **Custom Dashboards:** Business Intelligence · Marketing ROI · Sales Performance · Revenue · Payments · Operations · Customer Analytics
-* 📣 **Marketing Reporting:** Google Ads · Meta Ads · Facebook · Instagram · Campaign Performance · Lead Attribution · Conversion Tracking · ROI Dashboards
-* 🧾 **e-Invoicing:** ZATCA · E-Invoicing APIs · ERP Integrations · Tax & Compliance Workflows
-* 📱 **Communications:** Twilio · SendGrid · SMS · Voice · Email Automation · Notifications
+*  **Founder of [ADB WORLD](https://adbworld.com/)** — delivering fintech, API integration, automation, CRM, AI, dashboards, and custom software solutions.
+*  **Payment & Fintech:** NMI · North · Stripe · ACH · Card Processing · Tokenization · Customer Vaults · Recurring Billing · Webhooks · Transaction Reporting
+*  **1,000+ integrations** across payment processors, CRMs, SaaS platforms, APIs, automation systems, and business applications.
+*  **Industry experience:** Health Insurance · Healthcare · Lending & Loans · Fintech · CRM · E-Commerce · Enterprise Automation
+*  **AI & Automation:** AI Agents · LLM Integrations · AI Workflows · n8n · Make · Zapier · Data Automation · Intelligent CRM Automation
+*  **CRM & Business Platforms:** HubSpot · GoHighLevel (GHL) · Zoho · Salesforce and many other CRM/business platforms
+*  **Custom Business CRMs:** Lead Management · Sales Pipelines · Customer Management · Workflow Automation · User/Role Management · Reporting
+*  **Custom Dashboards:** Business Intelligence · Marketing ROI · Sales Performance · Revenue · Payments · Operations · Customer Analytics
+*  **Marketing Reporting:** Google Ads · Meta Ads · Facebook · Instagram · Campaign Performance · Lead Attribution · Conversion Tracking · ROI Dashboards
+*  **e-Invoicing:** ZATCA · E-Invoicing APIs · ERP Integrations · Tax & Compliance Workflows
+*  **Communications:** Twilio · SendGrid · SMS · Voice · Email Automation · Notifications
 
-## 🔨 What I Build
+##  What I Build
 
 | **Area**                      | **Solutions**                                                                                                         |
 | ----------------------------- | --------------------------------------------------------------------------------------------------------------------- |
-| 💳 **Payment Processing**     | NMI · North · Stripe · ACH · Card Payments · Tokenization · Vaulting · Recurring Billing · Refunds · Chargebacks      |
-| 🔗 **API Integrations**       | REST APIs · Webhooks · OAuth · Custom APIs · Third-Party Integrations · Middleware                                    |
-| 🤖 **AI & Agents**            | AI Agents · LLM APIs · Conversational AI · AI Automation · Intelligent Workflows                                      |
-| ⚙️ **Automation**             | n8n · Make · Zapier · CRM Automation · Data Automation · Scheduled Jobs                                               |
-| 🏥 **Healthcare & Insurance** | Health Insurance Platforms · Healthcare Data · Claims & Workflow Integrations · Patient/Customer Systems              |
-| 💰 **Lending & Loans**        | Loan Platforms · Financial APIs · Customer Data · Workflow Automation                                                 |
-| 🧠 **Custom CRM**             | Custom Business CRM · Lead Management · Sales Pipelines · Customer Portals · Workflow Automation                      |
-| 📊 **Custom Dashboards**      | Executive Dashboards · Sales Dashboards · Finance Dashboards · Operations · Marketing ROI · Business Intelligence     |
-| 📣 **Marketing Analytics**    | Google Ads Reporting · Meta Ads Reporting · Facebook/Instagram Ads · Campaign Analytics · Lead Attribution · ROAS/ROI |
-| 🧾 **e-Invoicing**            | ZATCA · E-Invoicing · ERP Integration · Invoice APIs · Compliance Workflows                                           |
-| 📱 **Communications**         | Twilio · SendGrid · SMS · Voice · Email APIs · Notification Systems                                                   |
-| 📊 **Data Platforms**         | Data Synchronization · ETL · Centralized Databases · Data Pipelines · Reporting · Analytics                           |
+|  **Payment Processing**     | NMI · North · Stripe · ACH · Card Payments · Tokenization · Vaulting · Recurring Billing · Refunds · Chargebacks      |
+|  **API Integrations**       | REST APIs · Webhooks · OAuth · Custom APIs · Third-Party Integrations · Middleware                                    |
+|  **AI & Agents**            | AI Agents · LLM APIs · Conversational AI · AI Automation · Intelligent Workflows                                      |
+|  **Automation**             | n8n · Make · Zapier · CRM Automation · Data Automation · Scheduled Jobs                                               |
+|  **Healthcare & Insurance** | Health Insurance Platforms · Healthcare Data · Claims & Workflow Integrations · Patient/Customer Systems              |
+|  **Lending & Loans**        | Loan Platforms · Financial APIs · Customer Data · Workflow Automation                                                 |
+|  **Custom CRM**             | Custom Business CRM · Lead Management · Sales Pipelines · Customer Portals · Workflow Automation                      |
+|  **Custom Dashboards**      | Executive Dashboards · Sales Dashboards · Finance Dashboards · Operations · Marketing ROI · Business Intelligence     |
+|  **Marketing Analytics**    | Google Ads Reporting · Meta Ads Reporting · Facebook/Instagram Ads · Campaign Analytics · Lead Attribution · ROAS/ROI |
+|  **e-Invoicing**            | ZATCA · E-Invoicing · ERP Integration · Invoice APIs · Compliance Workflows                                           |
+|  **Communications**         | Twilio · SendGrid · SMS · Voice · Email APIs · Notification Systems                                                   |
+|  **Data Platforms**         | Data Synchronization · ETL · Centralized Databases · Data Pipelines · Reporting · Analytics                           |
 
-## 📈 Custom Dashboards & Business Intelligence
+##  Custom Dashboards & Business Intelligence
 
 I build **custom reporting and analytics dashboards** that bring data from multiple platforms into a single business view.
 
@@ -56,7 +56,7 @@ Examples include:
 
 I can connect APIs from **Google Ads, Meta, CRMs, payment processors, call tracking platforms, websites, and internal databases** to create a centralized reporting system.
 
-## 🧠 Custom Business CRM
+##  Custom Business CRM
 
 I also build **custom CRM platforms** when an existing CRM doesn't fit the business requirements.
 
@@ -78,7 +78,7 @@ Typical functionality includes:
 * AI-powered automation
 * Custom admin dashboards
 
-## 🤖 AI & Automation
+##  AI & Automation
 
 I'm heavily focused on **AI-powered automation and agentic workflows**, including:
 
@@ -94,7 +94,7 @@ I'm heavily focused on **AI-powered automation and agentic workflows**, includin
 * AI-powered reporting
 * Connecting AI agents with payments, CRMs, and enterprise APIs
 
-## ⚙️ Core Stack
+##  Core Stack
 
 **Payments & Fintech:**
 NMI · North · Stripe · ACH · Card Processing · Payment APIs · Webhooks · Tokenization · Vaulting · Recurring Billing
@@ -120,7 +120,7 @@ AWS · Azure · Docker · cPanel · VPS · Cloud APIs · Serverless Functions
 **e-Invoicing & Compliance:**
 ZATCA · E-Invoicing APIs · ERP Integrations · Tax & Compliance Automation
 
-## 📊 Experience
+##  Experience
 
 ### 15+ Years in Technology & Integration
 
@@ -130,7 +130,7 @@ My experience spans the complete integration lifecycle:
 
 I've worked on **1,000+ integrations**, connecting payment processors, CRMs, insurance systems, lending platforms, communication services, e-commerce platforms, ERPs, advertising platforms, AI services, and custom business applications.
 
-## 🏢 ADB WORLD
+##  ADB WORLD
 
 I run **[ADB WORLD](https://adbworld.com/)**, where we build technology solutions for businesses that need their systems to work together.
 
@@ -142,7 +142,7 @@ The goal is simple:
 
 > **Connect systems. Automate processes. Build better business intelligence. Turn data into business value.**
 
-## 📊 GitHub
+##  GitHub
 
 Building **fintech infrastructure, APIs, integrations, custom CRMs, business dashboards, AI agents, automation systems, and data platforms** that solve real-world business problems.
 
