@@ -1,4 +1,4 @@
-# 👋 Umer Sharif — Fintech & Integration Architect
+#  Umer Sharif — Fintech & Integration Architect
 
 **Fintech Solutions Architect · API Integration Specialist · AI Automation Engineer · Custom CRM & Dashboard Developer · Founder of [ADB WORLD](https://adbworld.com/)**
 
